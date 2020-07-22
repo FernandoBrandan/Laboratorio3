@@ -1,4 +1,4 @@
-alter TRIGGER tr_Genera_Facturacion
+create TRIGGER tr_Genera_Facturacion
 ON Inscripcion
 AFTER INSERT
 AS
